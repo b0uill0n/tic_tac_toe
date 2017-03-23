@@ -15,7 +15,7 @@ Execute the following command to start the game:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/tic_tac_toe.
+Bug reports and pull requests are welcome on GitHub at https://github.com/b0uill0n/tic_tac_toe.
 
 
 ## License
